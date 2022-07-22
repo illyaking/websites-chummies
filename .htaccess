@@ -1,4 +1,7 @@
 
+RewriteEngine on
+
+RewriteOptions inherit
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the “alt-php74” package as the default “PHP” programming language.
